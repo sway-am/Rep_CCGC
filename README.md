@@ -33,7 +33,7 @@ We propose a Cluster-guided Contrastive deep Graph Clustering network (CCGC) by 
 
 
 <div  align="center">    
-    <img src="./assets/CCGC_model.png" width=80%/>
+    <img src=".CCGC_MLRC/assets/CCGC_model.png" width=80%/>
 </div>
 
 <div  align="center">    
