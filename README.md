@@ -45,7 +45,7 @@ We propose a Cluster-guided Contrastive deep Graph Clustering network (CCGC) by 
 
 ### Requirements
 
-The proposed CCGC is implemented with python 3.7 on a NVIDIA 2080Ti GPU. 
+The proposed CCGC is implemented with python 3.7 on Google Colab standard CPU and T4 GPU. 
 
 Python package information is summarized in **requirements.txt**:
 
