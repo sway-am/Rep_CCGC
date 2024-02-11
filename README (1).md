@@ -1,9 +1,9 @@
-[stars-img]: https://img.shields.io/github/stars/xihongyang1999/CCGC?color=yellow
-[stars-url]: https://github.com/xihongyang1999/CCGC/stargazers
-[fork-img]: https://img.shields.io/github/forks/xihongyang1999/CCGC?color=lightblue&label=fork
-[fork-url]: https://github.com/xihongyang1999/CCGC/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=xihongyang1999.CCGC
-[adgc-url]: https://github.com/xihongyang1999/CCGC
+[stars-img]: https://img.shields.io/github/stars/sway-am/-Re-CCGC?color=yellow
+[stars-url]: https://github.com/sway-am/-Re-CCGC/stargazers
+[fork-img]: https://img.shields.io/github/forks/sway-am/-Re-CCGC?color=lightblue&label=fork
+[fork-url]: https://github.com/sway-am/-Re-CCGC/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=sway-am.-Re-CCGC
+[adgc-url]: https://github.com/sway-am/-Re-CCGC
 
 # Cluster-guided Contrastive Graph Clustering Network
 
