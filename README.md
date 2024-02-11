@@ -33,7 +33,7 @@ We propose a Cluster-guided Contrastive deep Graph Clustering network (CCGC) by 
 
 
 <div  align="center">    
-    <img src=".CCGC_MLRC/assets/CCGC_model.png" width=80%/>
+    <img src=".CCGC_MLRC/assests/CCGC_model.png" width=80%/>
 </div>
 
 <div  align="center">    
@@ -92,7 +92,7 @@ If you find this project useful for your research, please cite your paper with t
 ```
 @inproceedings{CCGC,
   title={Cluster-guided Contrastive Graph Clustering Network},
-  author={Yang, Xihong and Liu, Yue and Zhou, Sihang and Wang, Siwei and Tu, Wenxuan and Zheng, Qun and Liu, Xinwang and Fang, Liming and Zhu, En},
+  author={Swayam Rajat Mohanty, Soumya Sharma, Prakhar Pratap Singh,En},
   booktitle={Proceedings of the AAAI conference on artificial intelligence},
   volume={37},
   number={9},
