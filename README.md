@@ -68,7 +68,7 @@ python train.py
 ### Clustering Results
 
 <div  align="center">    
-    <img src="CCGC_MLRC/assests/result.jpg" width=100%/>
+    <img src="CCGC_MLRC/assests/results.jpg" width=100%/>
 </div>
 <div  align="center">    
     Table 1: Clustering results of our proposed CCGC and twelve baselines on six datasets.
