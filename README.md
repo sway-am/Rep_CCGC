@@ -84,10 +84,5 @@ If you find this project useful for your research, please cite your paper with t
 @inproceedings{CCGC,
   title={[Re] Reproducibility Study: Cluster-guided Contrastive Graph Clustering Network},
   author={Swayam Rajat Mohanty, Soumya Sharma, Prakhar Pratap Singh,En},
-  booktitle={Proceedings of the AAAI conference on artificial intelligence},
-  volume={37},
-  number={9},
-  pages={10834--10842},
-  year={2023}
 }
 ```
