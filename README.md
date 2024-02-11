@@ -75,16 +75,6 @@ python train.py
 </div>
 
 
-<div  align="center">    
-    <img src="./assets/CCGC_tsne.png" width=100%/>
-</div>
-
-
-<div  align="center">    
-    Figure 2: 2D <i>t</i>-SNE visualization of six methods on two datasets.
-</div>
-
-
 
 ### Citation
 
