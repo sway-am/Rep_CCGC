@@ -20,7 +20,8 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-An official source code for paper Cluster-guided Contrastive Graph Clustering Network , accepted by AAAI 2023. Any communications or issues are welcomed. Please contact prakhar.pratapsingh.cd.cse22@itbhu.ac.in. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+An official source code for paper [Re] Reproducibility Study : Cluster-guided Contrastive
+ Graph Clustering Network. Any communications or issues are welcomed. Please contact prakhar.pratapsingh.cd.cse22@itbhu.ac.in. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 
 -------------
 
