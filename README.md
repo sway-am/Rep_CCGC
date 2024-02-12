@@ -54,7 +54,7 @@ Python package information is summarized in **requirements.txt**:
 
 ### Quick Start
 
-python train.py
+Refer HOW_TO_RUN.md
 
 
 
