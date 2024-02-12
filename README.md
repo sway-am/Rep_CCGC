@@ -1,9 +1,4 @@
-[stars-img]: https://img.shields.io/github/stars/sway-am/-Re-CCGC?color=yellow
-[stars-url]: https://github.com/sway-am/-Re-CCGC/stargazers
-[fork-img]: https://img.shields.io/github/forks/sway-am/-Re-CCGC?color=lightblue&label=fork
-[fork-url]: https://github.com/sway-am/-Re-CCGC/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=sway-am.-Re-CCGC
-[adgc-url]: https://github.com/sway-am/-Re-CCGC
+
 
 # Cluster-guided Contrastive Graph Clustering Network
 
@@ -15,13 +10,11 @@
 <p/>
 
 
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+
 
 
 An official source code for paper [Re] Reproducibility Study : Cluster-guided Contrastive
- Graph Clustering Network. Any communications or issues are welcomed. Please contact prakhar.pratapsingh.cd.cse22@itbhu.ac.in. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+ Graph Clustering Network. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 
 -------------
 
@@ -76,13 +69,4 @@ python train.py
 
 
 
-### Citation
 
-If you find this project useful for your research, please cite your paper with the following BibTeX entry.
-
-```
-@inproceedings{CCGC,
-  title={[Re] Reproducibility Study: Cluster-guided Contrastive Graph Clustering Network},
-  author={Swayam Rajat Mohanty, Soumya Sharma, Prakhar Pratap Singh,En},
-}
-```
